@@ -1,14 +1,19 @@
-# Archivos de caché y compilados
+# Archivos generados por PyInstaller
+KVConversor.exe
+KVConversor.command
+KVConversor
+
+# Directorio de archivos temporales y de salida
 __pycache__/
+output/
+
+# Archivos específicos del entorno de desarrollo de Python
 *.pyc
 *.pyo
 
 # Carpeta de entorno virtual (si se utiliza)
 venv/
 env/
-
-# Carpeta de salida de imágenes procesadas
-output/
 
 # Archivos de configuración específicos del usuario
 *.ini
@@ -23,4 +28,3 @@ output/
 # Carpeta de construcción
 build/
 dist/
-
